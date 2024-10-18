@@ -2,7 +2,7 @@ import {Activity} from "./utils/activity";
 
 //O6KsUnkEtYLvwwkzJYDwguXU3YlXZkk11BBD2UdT43iqScf5wJv3Zw4z
 let a:any = 'a';
-let endpoint = 'http://bored.api.lewagon.com/api/activity/';
+let endpoint = 'https://bored.api.lewagon.com/api/activity/';
 
 let span = document.getElementsByTagName('p')[1]
 async function mostrarInfo() {
